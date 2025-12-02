@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "gift": "Netflix",
+        "tipo": "Suscripción",
+        "tiempo": "1 mes",
+        "precio": 22,
+        "imagen": "https://i.imgur.com/VZQwL.jpg"
+    },
+    {
+        "id": 2,
+        "gift": "Spotify",
+        "tipo": "Suscripción",
+        "tiempo": "1 mes",
+        "precio": 15,
+        "imagen": "https://i.imgur.com/J4CY9.jpg"
+    },
+    {
+        "id": 3,
+        "gift": "Xbox Gift Card",
+        "tipo": "Compra",
+        "tiempo": "N/A",
+        "precio": 50,
+        "imagen": "https://i.imgur.com/Qo1Pf.jpg"
+    }
+]
